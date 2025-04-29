@@ -111,3 +111,4 @@ Periodically update the image to include:
 - Latest Alpine base image (security updates)
 - Updated troubleshooting tools
 - New diagnostic utilities as Kubernetes evolves
+
